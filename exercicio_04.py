@@ -22,3 +22,4 @@ for i in range(1, 11):
 # - o print com f"" mistura texto e variáveis: {numero} x {i} = {numero * i};
 # - posso fazer a conta direto dentro das chaves do f-string.
 
+
