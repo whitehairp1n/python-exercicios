@@ -32,5 +32,3 @@ else:
 
 # erro que cometi: deixei um ? no lugar do número e deu SyntaxError
 # NameError quer dizer que o Python não sabe o que é aquele nome
-
-
