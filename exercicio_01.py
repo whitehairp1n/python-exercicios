@@ -1,11 +1,11 @@
 # Exercício 01
 
 
-# perguntar o nome e mostrar "Olá, [nome]!"
+# fazer um programa que pergunta o nome e imprime "Olá, [nome]!"
 
 
 # nome = input("Seu nome: ")
-#print(f"Olá, {nome}!")
+# print(f"Olá, {nome}!")
 
 
 nome = "Yves"
