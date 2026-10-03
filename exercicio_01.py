@@ -1,7 +1,7 @@
 # Exercício 01
 
 
-# fazer um programa que pergunta o nome e imprime "Olá, [nome]!"
+# fazer um programa que pergunta o nome e imprime "Olá, [nome]!" .
 
 
 # nome = input("Seu nome: ")
