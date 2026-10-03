@@ -1,6 +1,6 @@
 # Exercício 03
 
-# fazer um programa que pede duas notas e imprime a média
+# fazer um programa que pede duas notas e imprime a média.
 
 # nota1 = float(input("Digite a primeira nota: "))
 # nota2 = float(input("Digite a segunda nota: "))
