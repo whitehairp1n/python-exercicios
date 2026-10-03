@@ -1,6 +1,6 @@
 # Exercício 05
 
-# fazer um programa que pede números até digitar 0 imprime a soma
+# fazer um programa que pede números até digitar 0 imprime a soma.
 
 
 # soma = 0
