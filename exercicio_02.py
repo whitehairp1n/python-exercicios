@@ -1,6 +1,6 @@
 # Exercício 02
 
-# fazer um programa que pede um número e imprime se ele é par ou ímpar
+# fazer um programa que pede um número e imprime se ele é par ou ímpar.
 
 
 # numero = int(input("Digite um número: "))
